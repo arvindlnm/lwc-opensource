@@ -1,6 +1,7 @@
 # Log files
 logs
 *.log
+*.env
 *-debug.log
 *-error.log
 
